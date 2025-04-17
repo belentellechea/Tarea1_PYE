@@ -10,6 +10,7 @@
 - Puerta abierta por el presentador.
 - En caso de cambio de puerta indicar cual es la nueva puerta que elige el participante.
 - Resultado del concurso (el participante gana o no gana el auto).
+
   Se recomienda usar la función randint de la librería random para la generación de los números aleatorios necesarios para la implementación de esta función.
 2. Ejecutar la función 1.000, 10.000 y 100.000 veces para la estrategia de cambio de puerta y cuente la cantidad de veces que el juego resulta en que el participante gana el auto. Repita esta parte para la estrategia donde no se cambia la puerta.
 3. ¿Cuánto vale la probabilidad empírica de que el participante gane el auto con la estrategia de cambio de puerta? ¿Cuánto vale la misma probabilidad con la estrategia donde no se cambia la puerta? ¿Alguna de las dos estrategias es preferible?
