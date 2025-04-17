@@ -24,5 +24,5 @@ def disease_problem(n):
         return "probability in " + str(n) + " people: " + str(ill_positives) + "/" + str(total_positives) + " = " + str(ill_positives/total_positives)
     
 
-resultado_simulacion = disease_problem(1000000000)
-print(resultado_simulacion)
+simulation_result = disease_problem(100000000)
+print(simulation_result)
